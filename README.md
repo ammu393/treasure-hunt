@@ -1,0 +1,2 @@
+- A model based system to implement reinforcement learning for an Agent. 
+- Goal of the Agent is to self find the best path to the treasure while collecting tools such as axe, key and dynamite hidden in the map and overcoming obstacles such as trees, doors andn rocks 
